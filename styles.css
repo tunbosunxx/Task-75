@@ -41,7 +41,7 @@ footer{
     width:10%;
 }
 .bg{
-    background-image:url('/images/bg-hero-desktop.svg');
+    background-image:url("https://tunbosunxx.github.io/Task-75/images/bg-hero-desktop.svg");
     background-size:100%;
     background-position:auto ;
     background-repeat:no-repeat;
