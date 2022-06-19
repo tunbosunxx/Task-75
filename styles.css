@@ -362,6 +362,7 @@ a:link{
         margin:0;
         padding:0;
         overflow-x: hidden;
+        overflow-y: hidden;
     }
     main{
         width:90%;
@@ -373,7 +374,7 @@ a:link{
     }
     .row3, .row4, .row5{
         display: grid;
-        flex-direction: row-reverse;
+       
         
         position: relative;
         grid-gap:100px;
